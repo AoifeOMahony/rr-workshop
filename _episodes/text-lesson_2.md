@@ -1,6 +1,6 @@
 ---
 title: "Prereg: How to write a good preregistration"
-teaching: 30
+teaching: 20
 exercises: 30
 duration: null
 summary: Guidance on what makes a good preregistration.
