@@ -1,6 +1,6 @@
 ---
 title: "Prereg: How to post a preregistration"
-teaching: 30
+teaching: 10
 exercises: null
 duration: null
 summary: A demonstration of how to post a preregistration.
