@@ -1,6 +1,6 @@
 ---
 title: "Prereg: Tying the preregistration into the final manuscript"
-teaching: 30
+teaching: 10
 exercises: null
 duration: null
 summary: Understanding how to preregistration and final manuscript tie together
